@@ -1,10 +1,10 @@
-title: "产品"
+title: "行业"
 date: 2015-04-05 05:37:40
-type: "product"
+type: "industry"
 ---
 
 ## 地名地址检索服务
-![地名地址检索服务](product/address.png)
+<img src="industry/address.png">
 
 地名地址检索服务包括地名地址检索SDK核心服务和地名地址检索Facade行业应用服务。
 ### 	地名地址检索SDK核心服务

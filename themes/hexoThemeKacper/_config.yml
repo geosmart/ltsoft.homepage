@@ -3,7 +3,8 @@
 menu: #导航栏连接
   主页: /
   产品: /product
-  服务: /tags
+  服务: /service
+  行业: /industry
   # Category: /category
   案例: /archives #/archives #归档页面URL 自定义页面标题: /自定义页面URL
   关于: /about
@@ -21,24 +22,31 @@ rss: /atom.xml #rss地址  默认即可
 #首页显示
 article_index:
   -  title: 实时众源空间信息聚合平台
-     content: 与jQuery有着类似的api，模仿jQuery的语法规范，并不是100%的覆盖。如果你会用jQuery，那么你也会用JSLite。
-     icon: icon-lab
-  -  title: 地名地址数据匹配方案
      content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
-     icon: icon-lab
-  -  title: 地名地址库检索服务定制
-     content: JSLite通用库只有5-10k，没有大量的兼容代码，在先进浏览器里面跑起来没有负担。为了减小代码量，提高性能，组件再插件化，兼容iOS3+ / android2.1+。
      icon: icon-bolt
-  -  title: 地名地址微信公众服务定制
+  -  title: 基于社交媒体时空模型的旅游景点推荐平台
      content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
-     icon: icon-book
+     icon: icon-bolt
+  -  title: 通用地名地址检索服务平台
+     content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
+     icon: icon-bolt
+  -  title: 地名地址公共信息服务平台
+     content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
+     icon: icon-bolt
+  -  title: 地名地址数据整合发布平台
+     content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
+     icon: icon-bolt
+  -  title: 微信公众信息服务平台
+     content: 让中国再次和世界同步，拥抱现代浏览器。未来总会接触到移动端开发，还好移动端开发环境还不算恶劣。
+     icon: icon-bolt
+
+
 
 # Content
 excerpt_link: Read More  #阅读更多的文字显示
 fancybox: true  #开启fancybox效果
 
-
 # Miscellaneous #社交网络和统计连接地址
-baidu_analytics: //hm.baidu.com/hm.js?fe2c7555911b8560db5e56121c5d5960
+baidu_analytics: //hm.baidu.com/hm.js?8a307b511e2232f2e357b3e14f156b70
 favicon: /css/favicon.ico
 logo: /css/logo.png
