@@ -4,11 +4,11 @@
 
 # Site
 title:  旅图信息
-subtitle: 专注于实时众源空间信息聚合平台
+subtitle: 专注于众源数据支撑下的旅游时空信息聚合
 description:
 author: geosmart
 language: zh-CN
-timezone: Asia/Chongqing
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,4 +73,4 @@ deploy:
   type: git
   repo: https://github.com/ltsoft/ltsoft.github.io.git
   branch: master
-  message: hexo deploy
+  message: hexo deploy 
